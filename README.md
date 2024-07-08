@@ -30,3 +30,6 @@ images/: The directory for storing any visualizations or plots generated during 
 README.md: This file, which provides an overview of the project.
 Conclusion
 This terrorism dataset EDA project aims to provide valuable insights to security analysts and decision-makers by uncovering patterns, trends, and vulnerabilities in the global terrorism landscape. The findings from this analysis can help inform security planning, risk mitigation, and policy development.
+
+**Get the dataset  at**; https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
+
