@@ -1,6 +1,6 @@
 # The-Sparks-Foundation-Internship
 
-**Terrorism Dataset EDA**
+**1. Terrorism Dataset EDA**
 
 **Project Overview**
 This project involves exploratory data analysis (EDA) on a terrorism dataset as part of the Sparks Foundation internship. The goal is to analyze the dataset from the perspective of a security analyst and discover insights about terrorism hot zones, security issues, and other relevant findings.
@@ -32,4 +32,23 @@ Conclusion
 This terrorism dataset EDA project aims to provide valuable insights to security analysts and decision-makers by uncovering patterns, trends, and vulnerabilities in the global terrorism landscape. The findings from this analysis can help inform security planning, risk mitigation, and policy development.
 
 **Get the dataset  at**; https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
+
+# 2. English Premier League Data Analysis
+
+## Project Description
+This project aims to perform a comprehensive analysis of the English Premier League (EPL) dataset to uncover insights about the most successful teams, top-performing players, and factors contributing to team performance. Using R programming, I conducted exploratory data analysis, statistical modeling, and data visualization to gain a deeper understanding of the EPL landscape.
+
+## Data Source
+The dataset used in this project was obtained from [https://drive.google.com/file/d/18iDDIIZGt8eWxzqbyMIqcn5X7bHINuLw/view]. It covers the results, player statistics, and team information for the English Premier League.
+
+## Methodology
+The analysis was carried out using the following steps:
+
+1. **Data Preprocessing**: The raw dataset was cleaned and transformed to handle missing values, correct data types, and create new derived features.
+2. **Exploratory Data Analysis**: I performed extensive EDA, including analyzing team performance metrics, player statistics, and the relationships between various factors.
+3. **Statistical Modeling**: Multiple regression models were built to identify the key predictors of team success, such as player performance, team formation, and financial resources.
+4. **Data Visualization**: Interactive visualizations were created to showcase the insights, including league standings, player performance charts, and decision-making dashboards.
+
+
+
 
